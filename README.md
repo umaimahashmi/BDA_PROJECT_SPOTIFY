@@ -8,11 +8,10 @@
 Fundamental of Big-Data Analysis
 
 ## SUBMITTED BY:
-
-- Umaima Hashmi (22I-1984)
-- Nooran Ishtiaq (22I-2010)
-- M. Manhab Zafar (22I-1957)
-
+- **Umaima Hashmi (22I-1984)**
+- **Nooran Ishtiaq (22I-2010)**
+- **M. Manhab Zafar (22I-1957)**
+- 
 ## Project Description:
 
 This project aims to develop a streamlined alternative to Spotify, focusing on implementing a music recommendation system, playback, and streaming capabilities, alongside real-time suggestions derived from user activity. The project is divided into three phases: Extract, Transform, Load (ETL) Pipeline, Music Recommendation Model, and Deployment.
